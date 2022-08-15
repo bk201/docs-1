@@ -63,6 +63,7 @@ nav:
     - install/usb-install.md
     - install/pxe-boot-install.md
     - install/harvester-configuration.md
+    - install/day-2-configuration.md
     - install/management-address.md
   - airgap.md
   - Upgrade:
